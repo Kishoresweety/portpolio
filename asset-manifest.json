@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/portpolio/static/css/main.1d57c1e1.css",
+    "main.js": "/portpolio/static/js/main.67ef526e.js",
+    "static/js/787.28cb0dcd.chunk.js": "/portpolio/static/js/787.28cb0dcd.chunk.js",
+    "static/media/ph1.jpg": "/portpolio/static/media/ph1.5f4eb119163a99825ea6.jpg",
+    "static/media/Kishore1.pdf": "/portpolio/static/media/Kishore1.bbb7c26204269e5adf84.pdf",
+    "static/media/about.svg": "/portpolio/static/media/about.ae84ec41ee8e05f8b71c731e9d55fc47.svg",
+    "index.html": "/portpolio/index.html",
+    "main.1d57c1e1.css.map": "/portpolio/static/css/main.1d57c1e1.css.map",
+    "main.67ef526e.js.map": "/portpolio/static/js/main.67ef526e.js.map",
+    "787.28cb0dcd.chunk.js.map": "/portpolio/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d57c1e1.css",
+    "static/js/main.67ef526e.js"
+  ]
+}
